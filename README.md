@@ -9,7 +9,7 @@ Ottawa, Ontario, Canada · [LinkedIn](https://www.linkedin.com/in/renatoviana/) 
 ## Summary
 I am a Principal / Staff Software Engineer and Architect with 20+ years of experience designing and owning event-driven, distributed systems in highly regulated environments, including banking, fintech, telecommunications, SaaS, logistics, and government. I have architected and governed Kafka-based platforms operating at 100M+ events per day, where correctness, auditability, and operational resilience are non-negotiable.
 
-I specialize in Kafka-based streaming platforms, cloud-native architectures, and deterministic, replayable systems. In my current role, I provide senior technical leadership for integrating PNC’s enterprise data streaming platform with Zafin, enabling scalable, policy-driven processing while preserving strict governance and consistency guarantees.
+I specialize in Kafka-based streaming platforms, cloud-native architectures, and deterministic, replayable systems. In my current role, I provide senior technical leadership for integrating PNC’s enterprise data streaming platform with Zafin, enabling scalable, policy-driven processing while preserving strict governance and consistency guarantees. I routinely serve as the final technical authority on streaming architecture, data contracts, and system-level integration decisions.
 
 My work sits at the intersection of architecture, execution, and risk management. I align business objectives with system design, ensuring microservices and streaming technologies are applied pragmatically—as enablers of measurable outcomes, not trends.
 
@@ -27,11 +27,10 @@ In parallel, I design and explore governed AI integration within event-driven sy
 ---
 
 ## Selected work
-- **Agentic Kafka Reference Architecture → Supporting Kafka + AI Experiments**  
-  My flagship repo demonstrates governed GenAI inside deterministic Kafka pipelines (facts → decisions → actions, audit trails, replay safety).  
-  Supporting experiments explore embeddings and semantic memory patterns that strengthen decision quality and consistency in event-driven systems.  
-  Reference architecture: https://github.com/renatosviana/agentic-kafka-reference-architecture  
-  Experiments: https://github.com/renatosviana
+- **Agentic Kafka Reference Architecture (flagship)** — governed GenAI inside deterministic, event-driven pipelines  
+  A production-style reference architecture showing how LLM/agent workflows operate **within replayable Kafka systems**, preserving auditability, determinism, and a strict separation between facts, decisions, and actions.  
+  https://github.com/renatosviana/agentic-kafka-reference-architecture
+
 
 ---
 
