@@ -7,7 +7,7 @@ Ottawa, Ontario, Canada · [LinkedIn](https://www.linkedin.com/in/renatoviana/) 
 ---
 
 ## Summary
-I am a Principal / Staff Software Engineer and Architect with 20+ years of experience designing and owning event-driven, distributed systems in highly regulated environments, including banking, fintech, telecommunications, SaaS, logistics, and government. I have architected and governed Kafka-based platforms operating at 100M+ events per day, where correctness, auditability, and operational resilience are non-negotiable.
+I am a Principal Software Engineer and Architect with 20+ years of experience designing and owning petabyte-scale, event-driven, distributed systems in highly regulated environments (banking, fintech, government, etc.). I architect and govern Kafka-based platforms, managing data volumes up to 1.2 Billion messages and processing over 100M events per day, where correctness, auditability, and operational resilience are non-negotiable
 
 I specialize in Kafka-based streaming platforms, cloud-native architectures, and deterministic, replayable systems. In my current role, I provide senior technical leadership for integrating PNC’s enterprise data streaming platform with Zafin, enabling scalable, policy-driven processing while preserving strict governance and consistency guarantees. I routinely serve as the final technical authority on streaming architecture, data contracts, and system-level integration decisions.
 
