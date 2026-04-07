@@ -13,7 +13,7 @@ I specialize in Kafka-based streaming platforms, cloud-native architectures, and
 
 My work sits at the intersection of architecture, execution, and risk management. I align business objectives with system design, ensuring microservices and streaming technologies are applied pragmatically—as enablers of measurable outcomes, not trends.
 
-In parallel, I design and explore governed AI integration within event-driven systems through independent research and open-source work. My focus is on architectures where LLMs and agentic workflows operate within deterministic pipelines, with explicit audit trails, replay safety, and a clear separation between facts, decisions, and actions.
+In parallel, I design and govern AI integration within event-driven systems through my open-source Agentic Kafka Reference Architecture - focusing on architectures where LLMs and agentic workflows operate within deterministic pipelines, with explicit audit trails, replay safety, and a clear separation between facts, decisions, and actions.
 
 ---
 
@@ -39,7 +39,7 @@ In parallel, I design and explore governed AI integration within event-driven sy
 - Event-driven & streaming architectures: Kafka / Redpanda, schema governance, replay safety, idempotency  
 - Cloud-native microservices: Java, Spring Boot, OpenShift, Azure, CI/CD, infrastructure-as-code  
 - Data & persistence: Oracle, PostgreSQL, SQL Server, MongoDB  
-- Governed AI systems (independent / open source): constrained agentic workflows, AI-augmented decisioning
+- Governed AI systems: constrained agentic workflows, LLM integration in deterministic pipelines
 
 ---
 
@@ -53,5 +53,5 @@ Python for embeddings and AI experimentation; TensorFlow/Keras exposure.
 B.Sc. Systems Analysis (Computer Science equivalent, MIFI validated) — Pontifical Catholic University of Campinas
 Post-graduate management studies — Henley Business School (University of Reading)  
 Certifications: PRINCE2 Practitioner, ITIL v3 Foundation, Java, Microsoft Azure  
-Languages: Portuguese (native), English & Spanish (fluent), French (working), German (intermediate)  
+Languages: Portuguese (native), English & Spanish (fluent), French (advanced), German (intermediate)  
 Canadian citizen
