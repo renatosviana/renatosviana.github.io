@@ -50,8 +50,9 @@ Python for embeddings and AI experimentation; TensorFlow/Keras exposure.
 ---
 
 ## Background
-B.Sc. Systems Analysis (Computer Science equivalent, MIFI validated) — Pontifical Catholic University of Campinas 
-Post-graduate in Management — Henley Business School (University of Reading - UK)  
+Post-graduate in Management — Henley Business School (University of Reading - UK) 
+
+B.Sc. Systems Analysis (Computer Science equivalent, MIFI validated) — Pontifical Catholic University of Campinas
 Certifications: PRINCE2 Practitioner, ITIL v3 Foundation, Java, Microsoft Azure  
 Languages: Portuguese (native), English & Spanish (fluent), French (advanced), German (intermediate)  
 Canadian citizen
