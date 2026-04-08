@@ -29,7 +29,7 @@ In parallel, I design and govern AI integration within event-driven systems thro
 ## Selected work
 - **Agentic Kafka Reference Architecture (flagship)** — governed GenAI inside deterministic, event-driven pipelines  
   A production-style reference architecture showing how LLM/agent workflows operate **within replayable Kafka systems**, preserving auditability, determinism, and a strict separation between facts, decisions, and actions.  
-  https://github.com/renatosviana/agentic-kafka-reference-architecture
+  [Reference Architecture](https://github.com/renatosviana/agentic-kafka-reference-architecture)
 
 
 ---
